@@ -5,6 +5,12 @@ This project analyzes ecommerce transaction data to understand customer behavior
 
 The dataset contains over 500,000 transactions from a UK-based online retailer.
 
+## Data
+The original dataset is not included due to size constraints. 
+It can be downloaded using the jupyter notebook or directly from the UCI Machine Learning Repository:
+
+https://archive.ics.uci.edu/dataset/352/online+retail
+
 ## Objectives
 - Analyze revenue trends over time  
 - Identify high-value and at-risk customers  
